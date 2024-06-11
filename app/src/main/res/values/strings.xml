@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">LoginWithAnimation</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="message_welcome_page">Mau belajar Android, iOS, Machine Learning, Cloud, Front-End, Back-End, dan bidang IT lainnya? Di Dicoding aja!</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="name">Nama</string>
+    <string name="message_main_page">Selamat Belajar di Dicoding.</string>
+    <string name="greeting">Halo %1$s,</string>
+    <string name="logout">Keluar</string>
+    <string name="retry">Coba lagi</string>
+    <string name="title_login">Ayo Ikuti Kami Untuk Memiliki Skill Expert!!</string>
+    <string name="subtitle_login">Login dengan masukan datamu</string>
+    <string name="title_signup">Daftarkan Dirimu Sekarang!!</string>
+    <string name="title_welcome">Selamat Datang!!</string>
+    <string name="desc_story">Desc Story</string>
+    <string name="image_story">Image Story</string>
+    <string name="logout_btn">logout</string>
+    <string name="add_btn">add</string>
+    <string name="image_signup">Image Signup</string>
+    <string name="author">Author</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="yeah">Yeah!</string>
+    <string name="berhasil">Anda berhasil login. Sudah tidak sabar untuk belajar ya?</string>
+    <string name="lanjut">Lanjut</string>
+    <string name="latitude">Latitude: </string>
+    <string name="longitude">Longitude: </string>
+</resources>
